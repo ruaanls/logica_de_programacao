@@ -4,6 +4,7 @@ programa
 	funcao inicio()
 	{
 		real caneta, livro
+		escreva("LIVRONETA BEM VINDO!!! \n")
 		escreva("Digite o valor que você pagou na caneta \n")
 		leia(caneta)
 		escreva("Digite o valor que você pagou no livro \n")
@@ -22,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 321; 
+ * @POSICAO-CURSOR = 92; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
